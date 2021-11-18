@@ -1,0 +1,9 @@
+#home_page_wrapper .manufacturer .manufacturer_item_img img{
+    transition: width, height 0.8s linear;
+    transform-style: preserve-3d;
+  }
+  #home_page_wrapper .manufacturer .manufacturer_item_img img:hover{
+    width: 110%;
+    height: 110%;
+  }
+  
